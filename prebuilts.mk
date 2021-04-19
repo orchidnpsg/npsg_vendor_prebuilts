@@ -3,7 +3,7 @@ include $(call first-makefiles-under,$(LOCAL_PATH))
 PRODUCT_PACKAGES += \
     dnotes \
     Metro \
-    taptap \ 
+    taptap \
     recorder \
     material \
     aod \
